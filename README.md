@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome 👋
+
+- 😄 Pronouns: he/him
+- 👨‍💻 I'm currently working at [Hudl](https://www.hudl.com) as a Senior Engineer.
+- 📖 You can find me blogging over at [https://www.aaronbos.dev](https://www.aaronbos.dev).
 
 <!--
 **aaronmbos/aaronmbos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
