@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-- 👨‍💻 I'm currently working at [Hudl](https://www.hudl.com) as an Engineering Manager.
+- 👨‍💻 I'm currently working on video encoding software at [Hudl](https://www.hudl.com) as a Senior Engineer.
 - 💭 You can find me blogging over at [aaronbos.dev](https://aaronbos.dev).
 
 <!--
